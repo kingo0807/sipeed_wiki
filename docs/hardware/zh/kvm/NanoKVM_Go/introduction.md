@@ -112,7 +112,7 @@ NanoKVM Go 配备 1.83 英寸触摸屏，用于显示网络、分辨率和运行
 
 ## 购买入口
 
-- [NanoKVM Go Kickstarter 众筹页面](https://www.kickstarter.com/projects/zepan/nanokvm-go-worlds-first-ai-native-4k-usb-c-kvm?ref=2804x3)
+- [NanoKVM Go 预售页面](https://sipeed.com/nanokvm-go)
 
 ## 产品反馈
 
