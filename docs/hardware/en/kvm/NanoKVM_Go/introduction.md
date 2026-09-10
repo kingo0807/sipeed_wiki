@@ -112,7 +112,7 @@ Built-in magnets attach the device to a metal PC case or another suitable metal 
 
 ## Purchase
 
-- [NanoKVM Go Kickstarter campaign](https://www.kickstarter.com/projects/zepan/nanokvm-go-worlds-first-ai-native-4k-usb-c-kvm?ref=2804x3)
+- [NanoKVM Go Pre-Order Page](https://sipeed.com/nanokvm-go)
 
 ## Feedback
 
